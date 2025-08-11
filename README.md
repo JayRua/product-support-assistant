@@ -20,8 +20,8 @@ A Python-based assistant (built in Jupyter Notebook) that answers product FAQs, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/JayRua/product-support-assistant.git
+   cd product-support-assistant
    ```
 
 2. Install dependencies:
@@ -41,7 +41,7 @@ A Python-based assistant (built in Jupyter Notebook) that answers product FAQs, 
    ```bash
    jupyter notebook
    ```
-2. Launch the notebook file (`product-support-assistant.ipynb`).
+2. Launch the notebook file (`project_assistant.ipynb`).
 
 Example queries:
 ```
